@@ -1,0 +1,11 @@
+[
+  {"id":1,"name":"Classic Cheeseburger","category":"Burgers","price":189,"rating":4.8,"emoji":"🍔","badge":"Bestseller","description":"Juicy patty, melted cheese, lettuce and house sauce."},
+  {"id":2,"name":"Margherita Pizza","category":"Pizza","price":299,"rating":4.7,"emoji":"🍕","badge":"Popular","description":"Classic pizza with tomato, mozzarella and fresh basil."},
+  {"id":3,"name":"Crispy French Fries","category":"Sides","price":99,"rating":4.5,"emoji":"🍟","badge":"Quick bite","description":"Golden, crispy fries seasoned just right."},
+  {"id":4,"name":"Veggie Sandwich","category":"Sandwiches","price":149,"rating":4.4,"emoji":"🥪","badge":"Fresh","description":"Fresh vegetables, cheese and creamy herb dressing."},
+  {"id":5,"name":"Chocolate Milkshake","category":"Drinks","price":119,"rating":4.6,"emoji":"🥤","badge":"Sweet treat","description":"Rich chocolate shake topped with a creamy finish."},
+  {"id":6,"name":"Paneer Tikka Bowl","category":"Indian","price":229,"rating":4.9,"emoji":"🍛","badge":"Chef's pick","description":"Spiced paneer with rice, veggies and mint chutney."},
+  {"id":7,"name":"Tacos (2 pcs)","category":"Sides","price":179,"rating":4.3,"emoji":"🌮","badge":"New","description":"Crunchy tacos filled with tasty veggies and salsa."},
+  {"id":8,"name":"Chocolate Brownie","category":"Desserts","price":89,"rating":4.7,"emoji":"🍫","badge":"Dessert","description":"Soft chocolate brownie with a fudgy centre."},
+  {"id":9,"name":"Garden Pizza","category":"Pizza","price":329,"rating":4.6,"emoji":"🍕","badge":"Veg favourite","description":"Loaded with capsicum, onion, olives and mushrooms."}
+]
